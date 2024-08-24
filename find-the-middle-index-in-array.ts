@@ -1,10 +1,24 @@
 import { test } from "./test";
-
 function findMiddleIndex(nums: number[]): number {
-  let left = 0,
-    right = 0;
+  let right = nums.reduce((acc, i) => (acc += i), 0);
+  let left = 0;
 
-  nums.forEach((int, index) => {});
+  for (let i = 0; i < nums.length; i++) {
+    const num = nums[i];
+    if (i === 0) {
+      left = 0;
+      right -= nums[i];
+    } else if (i === nums.length - 1) {
+      right = 0;
+      left += nums[i - 1];
+    } else {
+      right -= nums[i];
+      left += nums[i - 1];
+    }
+
+    if (right === left) return i;
+  }
+  return -1;
 }
 
 const nums1 = [2, 3, -1, 8, 4]; // 3
