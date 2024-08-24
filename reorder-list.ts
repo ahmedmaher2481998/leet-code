@@ -7,9 +7,9 @@ class ListNode {
     this.next = next === undefined ? null : next;
   }
 }
-function reorderList(head: ListNode | null): void {
-  if (!head) return;
-  console.log("now is: ", listNodeToArray(head));
+function reorderList(head: ListNode | null): ListNode | null {
+  if (!head) return null;
+  // console.log("now is: ", listNodeToArray(head));
   // locating the middle element
   let slow = head,
     fast = head;
@@ -18,7 +18,7 @@ function reorderList(head: ListNode | null): void {
     fast = fast.next.next;
   }
   let right = slow.next;
-  console.log("🚀middle:", slow.val);
+  // console.log("🚀middle:", slow.val);
   slow.next = null;
   // reversing everything after the middle element (right list)
   let curr = right,
@@ -45,6 +45,7 @@ function reorderList(head: ListNode | null): void {
 
     left = l;
   }
+  return head;
 }
 
 const firList = arrayToListNode([1, 2, 3, 4]);
@@ -53,6 +54,6 @@ const thirdList = arrayToListNode([1, 2, 3]);
 const p1 = reorderList(firList);
 const p2 = reorderList(secondList);
 const p3 = reorderList(thirdList);
-// console.log(listNodeToArray(reorderList(firList)));
-// console.log(listNodeToArray(reorderList(secondList)));
-// console.log(listNodeToArray(reorderList(thirdList)));
+console.log(listNodeToArray(reorderList(firList)));
+console.log(listNodeToArray(reorderList(secondList)));
+console.log(listNodeToArray(reorderList(thirdList)));
