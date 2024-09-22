@@ -6,9 +6,6 @@ class Solution:
         self, nums1: List[int], nums2: List[int], k: int
     ) -> List[List[int]]:
         result = []
-        # if len(nums1) < k or len(nums2) < k:
-        #     return result
-
         seen = set()
         heap = []
         sum = nums1[0] + nums2[0]
