@@ -7,7 +7,7 @@ class Node:
 class MyHashSet:
 
     def __init__(self):
-        self.set = [Node(0) for _ in range(10**4)]
+        self.set = [Node(0) for _ in range(10**5)]
 
     def hash(self, key: int) -> Node:
         index = key % len(self.set)
