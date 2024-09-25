@@ -8,25 +8,29 @@
 class MyHashMap:
 
     def __init__(self):
-        self.map = {}
+        self.map = [[] for _ in range(10**6)]
 
-    # def hash(key:int)-> int:
-    #     index = key % 1000
-    #     return index
+    def hash(self,key:int)-> int:
+        index = key % len(self.map)
+        return index
         
 
     def put(self, key: int, value: int) -> None:
-        self.map[key] = value
+        index = self.hash(key)
+        self.map[index] = [key,value]
         
 
     def get(self, key: int) -> int:
-        return self.map[key] if key in  self.map else -1
-        
+        index = self.hash(key)
+        if len(self.map[index]) != 0:
+            return self.map[index][-1]
+        else:
+            return -1
 
     def remove(self, key: int) -> None:
-        if key in self.map:
-            del self.map[key]
-        
+        index = self.hash(key)
+        if len(self.map[index]) != 0:
+            self.map[index] = []
 
 
 # Your MyHashMap object will be instantiated and called as such:
