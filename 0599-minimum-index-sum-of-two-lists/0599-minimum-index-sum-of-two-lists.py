@@ -1,22 +1,14 @@
 class Solution:
     def findRestaurant(self, list1: List[str], list2: List[str]) -> List[str]:
-        ans = {}
-        if len(list1) > len(list2):
-            shortList = list2
-            longList = list1
-        else:
-            shortList = list1
-            longList = list2
-        # getting common with smallest indexies
-        for i in range(len(shortList)):
-            # element from the shortList array
-            el = shortList[i]
-            if el in longList:  # if ture we found a common
-                sum = longList.index(el) + i
-                if sum in ans:
-                    ans[sum].append(el)
-                else:
-                    ans[sum] = [el]
-        smallest = list(ans.keys())
-        smallest.sort()
-        return ans[smallest[0]]
+        list3 = [value for value in list1 if value in list2]
+        map={}
+        for i in list3:
+            sum = list1.index(i) + list2.index(i) 
+            if sum in map:
+                map[sum].append(i)
+            else:
+                map[sum] = [i]
+        key = list(map.keys())
+        key.sort()
+        return map[key[0]]
+            
