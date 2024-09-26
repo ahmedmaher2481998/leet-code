@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ahmedmaher2481998/leet-code/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/ahmedmaher2481998/leet-code/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/ahmedmaher2481998/leet-code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ahmedmaher2481998/leet-code/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ahmedmaher2481998/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ahmedmaher2481998/leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ahmedmaher2481998/leet-code/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/ahmedmaher2481998/leet-code/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
