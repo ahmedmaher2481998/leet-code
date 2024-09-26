@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ahmedmaher2481998/leet-code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ahmedmaher2481998/leet-code/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ahmedmaher2481998/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ahmedmaher2481998/leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ahmedmaher2481998/leet-code/tree/master/0202-happy-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ahmedmaher2481998/leet-code/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ahmedmaher2481998/leet-code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ahmedmaher2481998/leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
