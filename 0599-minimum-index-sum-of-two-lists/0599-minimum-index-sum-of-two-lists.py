@@ -17,8 +17,6 @@ class Solution:
                     ans[sum].append(el)
                 else:
                     ans[sum] = [el]
-        smallest = float("inf")
-        for i in ans:
-            if int(i) < smallest:
-                smallest = i
-        return ans[smallest]
+        smallest = list(ans.keys())
+        smallest.sort()
+        return ans[smallest[0]]
