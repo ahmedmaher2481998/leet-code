@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ahmedmaher2481998/leet-code/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ahmedmaher2481998/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ahmedmaher2481998/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahmedmaher2481998/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ahmedmaher2481998/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0816-design-hashset](https://github.com/ahmedmaher2481998/leet-code/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahmedmaher2481998/leet-code/tree/master/0817-design-hashmap) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ahmedmaher2481998/leet-code/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahmedmaher2481998/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -98,5 +100,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ahmedmaher2481998/leet-code/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahmedmaher2481998/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ahmedmaher2481998/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ahmedmaher2481998/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
