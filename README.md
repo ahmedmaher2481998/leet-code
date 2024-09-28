@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahmedmaher2481998/leet-code/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/ahmedmaher2481998/leet-code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ahmedmaher2481998/leet-code/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/ahmedmaher2481998/leet-code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ahmedmaher2481998/leet-code/tree/master/0217-contains-duplicate) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahmedmaher2481998/leet-code/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/ahmedmaher2481998/leet-code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ahmedmaher2481998/leet-code/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/ahmedmaher2481998/leet-code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ahmedmaher2481998/leet-code/tree/master/0205-isomorphic-strings) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ahmedmaher2481998/leet-code/tree/master/0219-contains-duplicate-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/ahmedmaher2481998/leet-code/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
