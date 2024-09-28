@@ -13,8 +13,6 @@ class Solution:
                 row += 1
             return row * 3 + col
 
-        # print(hash(0, 0))  # 1
-        # print(hash(4, 4))  # 5
         for i, row in enumerate(board):
             map = {}
             for j, cell in enumerate(row):
@@ -30,7 +28,7 @@ class Solution:
                     cols[j] = [cell]
                 # check that row is vaild
                 if cell in map:
-                    print("in map", map)
+
                     return False
                 else:
                     map[cell] = j
@@ -38,7 +36,6 @@ class Solution:
                 key = hash(i, j)
                 if key in unit:
                     if cell in unit[key]:
-                        print("in unit", unit)
                         return False
                     else:
                         unit[key].append(cell)
