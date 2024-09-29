@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ahmedmaher2481998/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ahmedmaher2481998/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/ahmedmaher2481998/leet-code/tree/master/0652-find-duplicate-subtrees) |
+| [0782-jewels-and-stones](https://github.com/ahmedmaher2481998/leet-code/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/ahmedmaher2481998/leet-code/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahmedmaher2481998/leet-code/tree/master/0817-design-hashmap) |
 ## Divide and Conquer
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ahmedmaher2481998/leet-code/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahmedmaher2481998/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ahmedmaher2481998/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0782-jewels-and-stones](https://github.com/ahmedmaher2481998/leet-code/tree/master/0782-jewels-and-stones) |
 ## Queue
 |  |
 | ------- |
