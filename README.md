@@ -142,17 +142,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ahmedmaher2481998/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/ahmedmaher2481998/leet-code/tree/master/0652-find-duplicate-subtrees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ahmedmaher2481998/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/ahmedmaher2481998/leet-code/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ahmedmaher2481998/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/ahmedmaher2481998/leet-code/tree/master/0652-find-duplicate-subtrees) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ahmedmaher2481998/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ahmedmaher2481998/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
