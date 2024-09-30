@@ -1,28 +1,38 @@
 import random
+from collections import defaultdict
 class RandomizedSet:
 
     def __init__(self):
         self.s = []
-        self.map = {}
+        self.map = defaultdict(int)
     
     def insert(self, val: int) -> bool:
-        if val in self.s:
+        if val in self.map:
             return False
+        self.map[val] = len(self.s) 
         self.s.append(val)
-        self.map[val] = len(self.s) - 1 
         return True
         
     def remove(self, val: int) -> bool:
-        if val in self.s:
-            self.s.remove(val)        
-            del self.map[val]
-            return True
-        return False
-
-        
+        if val not in self.map:
+            return False
+        # print('s',self.s,self.map)
+        # local val in s
+        i = self.map[val]
+        # swap val with last index 
+        temp = self.s[i]
+        last = self.s[-1]
+        self.s[i] = last
+        #last index changed change it's index 
+        self.map[self.s.pop()] = self.map[val]
+        del self.map[val]
+        # print(f's : { self.s} after deleting {val}')
+        return True
 
     def getRandom(self) -> int:
-        return random.choice(self.s)
+        s = random.choice(self.s)
+        # print(self.s,s)
+        return s
 
         
 
