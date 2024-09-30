@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ahmedmaher2481998/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ahmedmaher2481998/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ahmedmaher2481998/leet-code/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ahmedmaher2481998/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/ahmedmaher2481998/leet-code/tree/master/0454-4sum-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ahmedmaher2481998/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0816-design-hashset](https://github.com/ahmedmaher2481998/leet-code/tree/master/0816-design-hashset) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ahmedmaher2481998/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ahmedmaher2481998/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ahmedmaher2481998/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ahmedmaher2481998/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahmedmaher2481998/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/ahmedmaher2481998/leet-code/tree/master/0454-4sum-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ahmedmaher2481998/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ahmedmaher2481998/leet-code/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ahmedmaher2481998/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [1014-k-closest-points-to-origin](https://github.com/ahmedmaher2481998/leet-code/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ahmedmaher2481998/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0816-design-hashset](https://github.com/ahmedmaher2481998/leet-code/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahmedmaher2481998/leet-code/tree/master/0817-design-hashmap) |
 ## Hash Function
@@ -147,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/ahmedmaher2481998/leet-code/tree/master/0652-find-duplicate-subtrees) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ahmedmaher2481998/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
