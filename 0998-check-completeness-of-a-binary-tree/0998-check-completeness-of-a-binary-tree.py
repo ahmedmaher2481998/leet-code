@@ -11,11 +11,9 @@ class Solution:
     def isCompleteTree(self, root: Optional[TreeNode]) -> bool:
         d = deque()
         bottom = False
-        res = True
         d.append(root)
         while d:
             n = d.popleft()
-            # print(f"n is : {n}: {bottom} , {d}")
             if not n:
                 bottom = True
                 continue
@@ -23,4 +21,4 @@ class Solution:
                return False
             d.append(n.left)
             d.append(n.right)
-        return res
+        return True
