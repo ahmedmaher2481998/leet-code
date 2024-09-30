@@ -8,13 +8,13 @@ class Solution:
             else:
                 map[i] = 1
         # print(map) #return form top freq to k freq 
-        vals = list(map.values()) 
-        vals.sort()
-        vals = vals[len(map) - k :]
-        res=[]
-        for v in vals:
-            k = list(map.keys())[(list(map.values()).index(v))]
-            res.append(k)
-            del map[k]
+        # vals = list(map.values()) 
+        # vals.sort()
+        # vals = vals[len(map) - k :]
+        # res=[]
+        # for v in vals:
+        #     k = list(map.keys())[(list(map.values()).index(v))]
+        #     res.append(k)
+        #     del map[k]
             # print('key is',k)
-        return res 
+        return sorted(map,key = map.get,reverse = True)[:k]
