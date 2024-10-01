@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmedmaher2481998/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/ahmedmaher2481998/leet-code/tree/master/0404-sum-of-left-leaves) |
 | [0652-find-duplicate-subtrees](https://github.com/ahmedmaher2481998/leet-code/tree/master/0652-find-duplicate-subtrees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ahmedmaher2481998/leet-code/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/ahmedmaher2481998/leet-code/tree/master/2384-root-equals-sum-of-children) |
@@ -150,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmedmaher2481998/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/ahmedmaher2481998/leet-code/tree/master/0404-sum-of-left-leaves) |
 | [0652-find-duplicate-subtrees](https://github.com/ahmedmaher2481998/leet-code/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmedmaher2481998/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/ahmedmaher2481998/leet-code/tree/master/0404-sum-of-left-leaves) |
 | [0652-find-duplicate-subtrees](https://github.com/ahmedmaher2481998/leet-code/tree/master/0652-find-duplicate-subtrees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ahmedmaher2481998/leet-code/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/ahmedmaher2481998/leet-code/tree/master/2384-root-equals-sum-of-children) |
@@ -166,5 +169,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmedmaher2481998/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/ahmedmaher2481998/leet-code/tree/master/0404-sum-of-left-leaves) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ahmedmaher2481998/leet-code/tree/master/0998-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
