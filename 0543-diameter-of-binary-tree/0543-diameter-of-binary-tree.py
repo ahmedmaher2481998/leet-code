@@ -9,17 +9,16 @@ from collections import defaultdict
 #         self.right = right
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        global m
+
         self.m = 0
 
-        def dfs(n: TreeNode)-> int:
+        def dfs(n: TreeNode) -> int:
             if not n:
                 return 0
             l = dfs(n.left)
             r = dfs(n.right)
-            self.m = max(self.m,l + r )
-            return 1 + max(l,r)
-        
-        dfs(root)
+            self.m = max(r + l, self.m)
+            return max(l, r) + 1
+
+        print(dfs(root))
         return self.m
-            
