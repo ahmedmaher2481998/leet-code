@@ -11,17 +11,19 @@ class Solution:
         # first make fast & slow intercest 
         # then make new slow and use it to make it intersect with the old slow 
         # when they intersect , it's  the duplicatye number 
-        fast ,slow =0 ,0
-        while True : 
-            slow = nums[slow]
-            fast = nums[nums[fast]]
-            if slow == fast :
-                print(slow , fast)
-                break
 
-        founder = 0
+        slow , fast = 0, 0
+
         while True:
-            founder = nums[founder]
+            fast = nums[nums[fast]]
             slow = nums[slow]
-            if slow == founder:
-                return slow 
+            if slow == fast : 
+                break 
+        slow2 = 0
+        while True:
+            slow = nums[slow]
+            slow2 = nums[slow2]
+            if slow == slow2:
+                return slow2
+            
+
