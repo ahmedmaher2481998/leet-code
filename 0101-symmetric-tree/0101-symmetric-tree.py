@@ -9,18 +9,14 @@ class Solution:
         def s(l, r) -> bool:
             if not l and not r:
                 return True
-            if l and r:
-                # print(f"l: {l.val},r: {r.val}")
-                if l.val == r.val:
-                    out = s(l.left, r.right)
-                    if not out:
-                        return False
-                    inner = s(l.right, r.left)
-                    if not inner:
-                        return False
-                    return inner and out
-                else:
+            elif l and r and l.val == r.val:
+                out = s(l.left, r.right)
+                if not out:
                     return False
+                inner = s(l.right, r.left)
+                if not inner:
+                    return False
+                return inner and out
             else:
                 return False
 
