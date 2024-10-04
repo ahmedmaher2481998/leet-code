@@ -16,6 +16,10 @@ class Solution:
             return True
         newSum = targetSum - root.val
         l = self.hasPathSum(root.left, newSum)
+        if l :
+            return l
         r = self.hasPathSum(root.right, newSum)
+        if r :
+            return r
         # print(f"n: {root.val} , l {l} ,r {r},sum:{targetSum}")
         return (r or l)
