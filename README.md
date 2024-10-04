@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/ahmedmaher2481998/leet-code/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahmedmaher2481998/leet-code/tree/master/0817-design-hashmap) |
 | [1014-k-closest-points-to-origin](https://github.com/ahmedmaher2481998/leet-code/tree/master/1014-k-closest-points-to-origin) |
+| [1319-unique-number-of-occurrences](https://github.com/ahmedmaher2481998/leet-code/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/ahmedmaher2481998/leet-code/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/ahmedmaher2481998/leet-code/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahmedmaher2481998/leet-code/tree/master/0817-design-hashmap) |
+| [1319-unique-number-of-occurrences](https://github.com/ahmedmaher2481998/leet-code/tree/master/1319-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
