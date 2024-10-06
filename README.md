@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ahmedmaher2481998/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0816-design-hashset](https://github.com/ahmedmaher2481998/leet-code/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahmedmaher2481998/leet-code/tree/master/0817-design-hashmap) |
+| [0990-verifying-an-alien-dictionary](https://github.com/ahmedmaher2481998/leet-code/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/ahmedmaher2481998/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1319-unique-number-of-occurrences](https://github.com/ahmedmaher2481998/leet-code/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/ahmedmaher2481998/leet-code/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/ahmedmaher2481998/leet-code/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahmedmaher2481998/leet-code/tree/master/0817-design-hashmap) |
+| [0990-verifying-an-alien-dictionary](https://github.com/ahmedmaher2481998/leet-code/tree/master/0990-verifying-an-alien-dictionary) |
 | [1319-unique-number-of-occurrences](https://github.com/ahmedmaher2481998/leet-code/tree/master/1319-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ahmedmaher2481998/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ahmedmaher2481998/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/ahmedmaher2481998/leet-code/tree/master/0782-jewels-and-stones) |
+| [0990-verifying-an-alien-dictionary](https://github.com/ahmedmaher2481998/leet-code/tree/master/0990-verifying-an-alien-dictionary) |
 ## Queue
 |  |
 | ------- |
