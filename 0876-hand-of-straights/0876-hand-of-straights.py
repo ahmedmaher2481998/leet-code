@@ -1,6 +1,3 @@
-# from collections import heapq
-
-
 class Solution:
     def isNStraightHand(self, hand: List[int], groupSize: int) -> bool:
         h = list(set(hand))
