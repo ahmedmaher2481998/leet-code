@@ -5,7 +5,6 @@ class Solution:
     def isNStraightHand(self, hand: List[int], groupSize: int) -> bool:
         h = list(set(hand))
         heapq.heapify(h)
-        # print(h)
         map = {}
         for i in hand:
             if i in map:
@@ -25,7 +24,6 @@ class Solution:
                         t.append(new)
                     else:
                         return False
-                    # print(f"j {j}")
             else:
                 heapq.heappop(h)
         return True
