@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ahmedmaher2481998/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0816-design-hashset](https://github.com/ahmedmaher2481998/leet-code/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahmedmaher2481998/leet-code/tree/master/0817-design-hashmap) |
+| [0876-hand-of-straights](https://github.com/ahmedmaher2481998/leet-code/tree/master/0876-hand-of-straights) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ahmedmaher2481998/leet-code/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/ahmedmaher2481998/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1319-unique-number-of-occurrences](https://github.com/ahmedmaher2481998/leet-code/tree/master/1319-unique-number-of-occurrences) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/ahmedmaher2481998/leet-code/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/ahmedmaher2481998/leet-code/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahmedmaher2481998/leet-code/tree/master/0817-design-hashmap) |
+| [0876-hand-of-straights](https://github.com/ahmedmaher2481998/leet-code/tree/master/0876-hand-of-straights) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ahmedmaher2481998/leet-code/tree/master/0990-verifying-an-alien-dictionary) |
 | [1319-unique-number-of-occurrences](https://github.com/ahmedmaher2481998/leet-code/tree/master/1319-unique-number-of-occurrences) |
 ## Divide and Conquer
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ahmedmaher2481998/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ahmedmaher2481998/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ahmedmaher2481998/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-hand-of-straights](https://github.com/ahmedmaher2481998/leet-code/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/ahmedmaher2481998/leet-code/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ahmedmaher2481998/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ahmedmaher2481998/leet-code/tree/master/0145-binary-tree-postorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/ahmedmaher2481998/leet-code/tree/master/0876-hand-of-straights) |
 <!---LeetCode Topics End-->
