@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedmaher2481998/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ahmedmaher2481998/leet-code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ahmedmaher2481998/leet-code/tree/master/0049-group-anagrams) |
+| [0187-repeated-dna-sequences](https://github.com/ahmedmaher2481998/leet-code/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/ahmedmaher2481998/leet-code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ahmedmaher2481998/leet-code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ahmedmaher2481998/leet-code/tree/master/0217-contains-duplicate) |
@@ -112,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ahmedmaher2481998/leet-code/tree/master/0187-repeated-dna-sequences) |
 | [0816-design-hashset](https://github.com/ahmedmaher2481998/leet-code/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahmedmaher2481998/leet-code/tree/master/0817-design-hashmap) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ahmedmaher2481998/leet-code/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/ahmedmaher2481998/leet-code/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/ahmedmaher2481998/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ahmedmaher2481998/leet-code/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedmaher2481998/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ahmedmaher2481998/leet-code/tree/master/0049-group-anagrams) |
+| [0187-repeated-dna-sequences](https://github.com/ahmedmaher2481998/leet-code/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/ahmedmaher2481998/leet-code/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahmedmaher2481998/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ahmedmaher2481998/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedmaher2481998/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/ahmedmaher2481998/leet-code/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/ahmedmaher2481998/leet-code/tree/master/0219-contains-duplicate-ii) |
 ## Matrix
 |  |
@@ -218,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/ahmedmaher2481998/leet-code/tree/master/0876-hand-of-straights) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ahmedmaher2481998/leet-code/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
