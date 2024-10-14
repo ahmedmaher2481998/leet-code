@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ahmedmaher2481998/leet-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ahmedmaher2481998/leet-code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ahmedmaher2481998/leet-code/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ahmedmaher2481998/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
@@ -237,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ahmedmaher2481998/leet-code/tree/master/0098-validate-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ahmedmaher2481998/leet-code/tree/master/0784-insert-into-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ahmedmaher2481998/leet-code/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ahmedmaher2481998/leet-code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
