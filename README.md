@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/ahmedmaher2481998/leet-code/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/ahmedmaher2481998/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1319-unique-number-of-occurrences](https://github.com/ahmedmaher2481998/leet-code/tree/master/1319-unique-number-of-occurrences) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ahmedmaher2481998/leet-code/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/ahmedmaher2481998/leet-code/tree/master/0876-hand-of-straights) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ahmedmaher2481998/leet-code/tree/master/0990-verifying-an-alien-dictionary) |
 | [1319-unique-number-of-occurrences](https://github.com/ahmedmaher2481998/leet-code/tree/master/1319-unique-number-of-occurrences) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ahmedmaher2481998/leet-code/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ahmedmaher2481998/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahmedmaher2481998/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ahmedmaher2481998/leet-code/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Quickselect
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/ahmedmaher2481998/leet-code/tree/master/0876-hand-of-straights) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ahmedmaher2481998/leet-code/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Rolling Hash
 |  |
 | ------- |
