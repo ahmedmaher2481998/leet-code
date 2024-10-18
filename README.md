@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ahmedmaher2481998/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/ahmedmaher2481998/leet-code/tree/master/0454-4sum-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ahmedmaher2481998/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0792-binary-search](https://github.com/ahmedmaher2481998/leet-code/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ahmedmaher2481998/leet-code/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ahmedmaher2481998/leet-code/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/ahmedmaher2481998/leet-code/tree/master/0876-hand-of-straights) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ahmedmaher2481998/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ahmedmaher2481998/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ahmedmaher2481998/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/ahmedmaher2481998/leet-code/tree/master/0792-binary-search) |
 ## String
 |  |
 | ------- |
