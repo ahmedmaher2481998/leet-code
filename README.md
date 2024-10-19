@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedmaher2481998/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ahmedmaher2481998/leet-code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ahmedmaher2481998/leet-code/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/ahmedmaher2481998/leet-code/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/ahmedmaher2481998/leet-code/tree/master/0205-isomorphic-strings) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ahmedmaher2481998/leet-code/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ahmedmaher2481998/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ahmedmaher2481998/leet-code/tree/master/0145-binary-tree-postorder-traversal) |
 ## Greedy
